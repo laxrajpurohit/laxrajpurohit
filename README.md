@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hey, I'm Lax Rajpurohit 👋
 
-<!--
-**laxrajpurohit/laxrajpurohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iOS & Swift Developer** building modern Apple-platform apps and developer tools.
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/laxrajpurohit?style=flat&logo=github&label=Follow)](https://github.com/laxrajpurohit)
+[![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?logo=github)](https://archiveprogram.github.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 What I Work With
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+
+- **Languages:** Swift 6, Objective-C
+- **Frameworks:** SwiftUI, UIKit, SwiftData, Core Data, Swift Concurrency
+- **Tools:** Xcode, Instruments, Claude Code
+
+---
+
+### 📌 Featured Project
+
+#### [swift-skills-pro](https://github.com/laxrajpurohit/swift-skills-pro) ⭐ 5
+> Modern AI agent skills for Swift and Apple-platform development
+
+11 specialized skills that teach AI coding assistants (Claude Code, Cursor, Windsurf) to write idiomatic **Swift 6 / iOS 26** code. Covers SwiftUI, Concurrency, SwiftData, Architecture, Performance, Accessibility, Security, and more.
+
+- Every skill includes wrong/right code examples and a mistakes checklist
+- Token-efficient — skills load only when triggered
+- MIT licensed, 100% original content
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laxrajpurohit&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxrajpurohit&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 🔗 Connect
+
+- **GitHub:** [@laxrajpurohit](https://github.com/laxrajpurohit)
+
+---
+
+<p align="center">
+  <i>"Write code that your future self will thank you for."</i>
+</p>
