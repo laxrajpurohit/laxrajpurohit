@@ -8,7 +8,8 @@ Building high-performance, scalable, App Store-ready applications.
 
 [![GitHub followers](https://img.shields.io/github/followers/laxrajpurohit?style=flat&logo=github&label=Follow)](https://github.com/laxrajpurohit)
 [![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?logo=github)](https://archiveprogram.github.com/)
-[![Upwork](https://img.shields.io/badge/Upwork-Available-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Available-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/laxr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxman-rajpurohit-340076162/)
 
 </div>
 
@@ -98,6 +99,13 @@ Requirements → Architecture → Implementation → Testing → App Store → S
 - Pixel-perfect UI from Figma
 - Full App Store submission & approval experience
 - Available 40+ hrs/week · Flexible timezones
+
+---
+
+### Connect
+
+[![Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/laxr)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxman-rajpurohit-340076162/)
 
 ---
 
