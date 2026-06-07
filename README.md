@@ -1,46 +1,111 @@
-# Hey, I'm Lax Rajpurohit 👋
+<div align="center">
 
-**iOS & Swift Developer** building modern Apple-platform apps and developer tools.
+# Lax Rajpurohit
+
+**Senior iOS Developer · 7+ Years · Swift · SwiftUI · UIKit**
+
+Building high-performance, scalable, App Store-ready applications.
 
 [![GitHub followers](https://img.shields.io/github/followers/laxrajpurohit?style=flat&logo=github&label=Follow)](https://github.com/laxrajpurohit)
 [![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?logo=github)](https://archiveprogram.github.com/)
+[![Upwork](https://img.shields.io/badge/Upwork-Available-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com)
+
+</div>
 
 ---
 
-### 🛠 What I Work With
+### About
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+Senior iOS Developer with 7+ years of experience delivering production apps across **fintech, healthcare, fitness, social networking, AI platforms, media streaming**, and **enterprise solutions**. I own the full lifecycle — from architecture to App Store deployment.
+
+---
+
+### Tech Stack
+
+<table>
+<tr>
+<td>
+
+**Languages & Frameworks**
+![Swift](https://img.shields.io/badge/Swift_6-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Obj--C-438EFF?style=flat&logo=apple&logoColor=white)
 
-- **Languages:** Swift 6, Objective-C
-- **Frameworks:** SwiftUI, UIKit, SwiftData, Core Data, Swift Concurrency
-- **Tools:** Xcode, Instruments, Claude Code
+</td>
+<td>
+
+**Data & Backend**
+![SwiftData](https://img.shields.io/badge/SwiftData-F05138?style=flat&logo=swift&logoColor=white)
+![CoreData](https://img.shields.io/badge/Core_Data-007AFF?style=flat&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**AI & Media**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-8A63D2?style=flat)
+![AVFoundation](https://img.shields.io/badge/AVFoundation-000?style=flat&logo=apple&logoColor=white)
+![CoreML](https://img.shields.io/badge/CoreML-34C759?style=flat&logo=apple&logoColor=white)
+
+</td>
+<td>
+
+**Platform & Tools**
+![BLE](https://img.shields.io/badge/BLE_/_IoT-0082FC?style=flat&logo=bluetooth&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-FF6247?style=flat)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📌 Featured Project
+### What I Build
 
-#### [swift-skills-pro](https://github.com/laxrajpurohit/swift-skills-pro) ⭐
-> Modern AI agent skills for Swift and Apple-platform development
+| Domain | Examples |
+|--------|---------|
+| **AI-Powered Apps** | OpenAI / Claude integration, intelligent assistants |
+| **Fintech & Payments** | Secure transactions, subscription systems |
+| **Healthcare & Fitness** | Real-time tracking, health data |
+| **Video & Media** | Streaming, editing, AVFoundation pipelines |
+| **BLE & IoT** | Device communication, CoreBluetooth |
+| **Document & OCR** | Scanning, PDF management, Vision framework |
+| **Social & Marketplace** | Real-time messaging, e-commerce |
+| **Enterprise SaaS** | Scalable, multi-tenant mobile solutions |
 
-11 specialized skills that teach AI coding assistants (Claude Code, Cursor, Windsurf) to write idiomatic **Swift 6 / iOS 26** code. Covers SwiftUI, Concurrency, SwiftData, Architecture, Performance, Accessibility, Security, and more.
+---
 
-Install with one command:
+### Featured Open Source
+
+#### [swift-skills-pro](https://github.com/laxrajpurohit/swift-skills-pro)
+
+> 11 AI agent skills that make Claude Code, Cursor, and Windsurf write Swift like a senior iOS engineer.
+
 ```bash
 npx swift-skills-cli install
 ```
 
-- Every skill includes wrong/right code examples and a mistakes checklist
-- Token-efficient — skills load only when triggered
-- MIT licensed, 100% original content
+Covers SwiftUI, Concurrency, SwiftData, Architecture, Performance, Accessibility, Security, App Intents, and more. MIT licensed.
 
 ---
 
-### 🔗 Connect
+### How I Work
 
-- **GitHub:** [@laxrajpurohit](https://github.com/laxrajpurohit)
+```
+Requirements → Architecture → Implementation → Testing → App Store → Support
+```
+
+- Clean, scalable, maintainable code
+- Pixel-perfect UI from Figma
+- Full App Store submission & approval experience
+- Available 40+ hrs/week · Flexible timezones
 
 ---
 
