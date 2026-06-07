@@ -17,7 +17,7 @@ Building high-performance, scalable, App Store-ready applications.
 
 ### About
 
-Senior iOS Developer with 7+ years of experience delivering production apps across **fintech, healthcare, fitness, social networking, AI platforms, media streaming**, and **enterprise solutions**. I own the full lifecycle — from architecture to App Store deployment.
+Senior iOS Developer with 7+ years of experience delivering production apps across **fintech, healthcare, fitness, social networking, AI platforms, media streaming**, and **enterprise solutions**. I own the full lifecycle from architecture to App Store deployment.
 
 ---
 
