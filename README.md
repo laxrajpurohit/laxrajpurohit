@@ -22,20 +22,6 @@ Senior iOS Developer with 7+ years of experience delivering production apps acro
 
 ---
 
-### GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=laxrajpurohit&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/laxrajpurohit)
-
-[![Contribution graph](https://ghchart.rshah.org/2ea043/laxrajpurohit)](https://github.com/laxrajpurohit)
-
-<sub>Most of my day-to-day work lives in private client repositories; the graph above includes those contributions.</sub>
-
-</div>
-
----
-
 ### Tech Stack
 
 **Languages & Frameworks**
