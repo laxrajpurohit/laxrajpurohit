@@ -6,6 +6,7 @@
 
 Building high-performance, scalable, App Store-ready applications.
 
+[![Profile views](https://komarev.com/ghpvc/?username=laxrajpurohit&style=flat&color=2ea043&label=Profile+views)](https://github.com/laxrajpurohit)
 [![GitHub followers](https://img.shields.io/github/followers/laxrajpurohit?style=flat&logo=github&label=Follow)](https://github.com/laxrajpurohit)
 [![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?logo=github)](https://archiveprogram.github.com/)
 [![Upwork](https://img.shields.io/badge/Upwork-Available-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/laxr)
@@ -18,6 +19,20 @@ Building high-performance, scalable, App Store-ready applications.
 ### About
 
 Senior iOS Developer with 7+ years of experience delivering production apps across **fintech, healthcare, fitness, social networking, AI platforms, media streaming**, and **enterprise solutions**. I own the full lifecycle from architecture to App Store deployment.
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=laxrajpurohit&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/laxrajpurohit)
+
+[![Contribution graph](https://ghchart.rshah.org/2ea043/laxrajpurohit)](https://github.com/laxrajpurohit)
+
+<sub>Most of my day-to-day work lives in private client repositories; the graph above includes those contributions.</sub>
+
+</div>
 
 ---
 
